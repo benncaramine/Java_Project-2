@@ -1,0 +1,36 @@
+[
+    {
+      "register":1,
+      "make": "Toyota",
+      "model": "Corolla",
+      "production_year": 2020,
+      "mpg": 30.0,
+      "kilometrage":10000,
+      "maxSpeed":120,
+      "fuelType":"Gasoline",
+      "transmissionType":"Automatic"
+
+    },
+    {
+      "register":2,
+      "make": "Honda",
+      "model": "Civic",
+      "production_year": 2019,
+      "mpg": 34.0,
+      "kilometrage":5000,
+      "maxSpeed":130,
+      "fuelType":"Gasoline",
+      "transmissionType":"Manual"
+    },
+    {
+      "register":3,
+      "make": "Ford",
+      "model": "Mustang",
+      "production_year": 2021,
+      "mpg": 25.0,
+      "kilometrage":20000,
+      "maxSpeed":150,
+      "fuelType":"Gasoline",
+      "transmissionType":"Automatic"
+    }
+  ]

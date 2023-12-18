@@ -1,0 +1,133 @@
+.dark-background {
+    -fx-background-color: #555555;
+    background-color: #555555;
+}
+
+
+.button {
+    -fx-background-color: #000000;
+    background-color: #000000;
+    -fx-text-fill: white;
+    -fx-border-color: #555555;
+    border-color: #555555;
+    -fx-border-width: 2px;
+    border-width: 2px;
+    -fx-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.button:pressed {
+    -fx-background-color: #555555;
+    background-color: #555555;
+    -fx-text-fill: white;
+}
+.button:focused {
+    -fx-border-color: rgb(255, 0, 0);
+    border-color: rgb(255, 0, 0);
+}
+.button:hover {
+    -fx-border-color: white;
+    border-color: white;
+}
+.text-field {
+    -fx-background-color: #000000;
+    background-color: #000000;
+    -fx-text-fill: white;
+    -fx-border-color: #555555;
+    border-color: #555555;
+    -fx-border-width: 2px;
+    border-width: 2px;
+    -fx-border-radius: 5px;
+    border-radius: 5px;
+}
+.text-field:focused {
+    -fx-border-color: rgb(255, 0, 0);
+    border-color: rgb(255, 0, 0);
+}
+.text-field:hover {
+    -fx-border-color: white;
+    border-color: white;
+}
+.label {
+    -fx-text-fill: white;
+}
+.blackBG{
+    -fx-background-color: #000000;
+    background-color: #000000;
+    -fx-text-fill: white;
+}
+.table-view {
+    -fx-border-color: #555555;
+    -fx-border-width: 2px;
+    -fx-border-radius: 5px;
+    -fx-background-color: #000000;
+
+    border-color: #555555;
+    border-width: 2px;
+    border-radius: 5px;
+    background-color: #000000;
+
+}
+.table-view:focused{
+    -fx-border-color: rgb(255, 0, 0);
+    border-color: rgb(255, 0, 0);
+}
+.table-view:hover {
+    -fx-border-color: white;
+    border-color: white;
+}
+.table-column {
+    -fx-text-fill: white;
+    -fx-background-color: #000000;
+    background-color: #000000;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    font-weight: bold;
+    -fx-background-color: #000000;
+    background-color: #000000;
+}
+.table-row-cell:selected {
+    -fx-border-color: #555555;
+    border-color: #555555;
+}
+.alert {
+    -fx-background-color: #000000;
+    background-color: #000000;
+    -fx-text-fill: white;
+}
+
+.alert .dialog-pane {
+    -fx-background-color: #2B2B2B;
+    background-color: #2B2B2B;
+}
+
+.alert .label {
+    -fx-text-fill: white;
+}
+
+.alert .button-bar .button {
+    -fx-background-color: #000000;
+    background-color: #000000;
+    -fx-text-fill: white;
+    -fx-border-color: #555555;
+    border-color: #555555;
+    -fx-border-width: 2px;
+    border-width: 2px;
+    -fx-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.alert .button-bar .button:hover {
+    -fx-border-color: white;
+    border-color: white;
+}
+
+.alert .button-bar .button:pressed {
+    -fx-background-color: #555555;
+    background-color: #555555;
+    -fx-text-fill: white;
+}
+

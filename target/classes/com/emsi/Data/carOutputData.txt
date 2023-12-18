@@ -1,0 +1,11 @@
+1 | Toyota | Corolla | 2020 | 30.0 | 10000 | 120 | Gasoline | Automatic
+2 | Honda | Civic | 2019 | 34.0 | 5000 | 130 | Gasoline | Manual
+3 | Ford | Mustang | 2021 | 25.0 | 20000 | 150 | Gasoline | Automatic
+4 | Toyota | Corolla | 2019 | 30.0 | 10000 | 120 | Gasoline | Automatic
+5 | Honda | Civic | 2020 | 35.0 | 5000 | 130 | Gasoline | Manual
+6 | Ford | Mustang | 2018 | 25.0 | 20000 | 150 | Gasoline | Automatic
+7 | Toyota | Camry | 2019 | 30.0 | 10000 | 120 | Gasoline | Automatic
+8 | Honda | Accord | 2020 | 35.0 | 5000 | 130 | Gasoline | Manual
+9 | Ford | Fusion | 2018 | 25.0 | 20000 | 150 | Gasoline | Automatic
+10 | Mercedes | C300 | 2019 | 30.0 | 10000 | 120 | Gasoline | Automatic
+11 | BMW | 330i | 2020 | 35.0 | 50000 | 170 | Gasoline | Manual
